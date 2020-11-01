@@ -4,6 +4,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tip: this mod currently only supports 1.16-1.16.4, because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
 
+### If you want to download Sweet Potato Mod, got to "release" to see the jar files!
+
+### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
+
 ### Things Added
 
 #### Sweet Potato
@@ -137,26 +141,25 @@ Email:tedexe_work.top@foxmail.com; 171078364@qq.com
 
 #### Author
 
-Teddy Li
+> Teddy Li
 
-Ray Chen
+> Ray Chen
 
-Dennis Lin
+> Dennis Lin
 
 
 #### Contributor
 
-Peter Yang
+> Peter Yang
 
-Garay
+> Garay
 
-Yimo Zhang (2333tech)
+> Yimo Zhang (2333tech)
 
-squid233
+> squid233
 
-YWsuoyi
+> YWsuoyi
 
-Ironnoob73
+> Ironnoob73
 
-immibis
-
+> immibis
