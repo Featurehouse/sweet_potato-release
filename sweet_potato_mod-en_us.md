@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tip: this mod currently only supports 1.16-1.16.4, because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
 
-### If you want to download Sweet Potato Mod, got to "release" to see the jar files!
+### If you want to download Sweet Potato Mod, go to "release" to see the jar files!
 
 ### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
 
