@@ -1,145 +1,155 @@
-# Sweet_Potato_Mod
+# Sweet Potato Mod——烤地瓜
 ## Try all kinds of food and magic in sweet potato mod!
 ![2020-10-28_19.30.37.png](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Tip: this mod currently only supports 1.16-1.16.4, because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
+### 温馨提示：本模组目前仅支持1.16-1.16.4，因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。
 
-### If you want to download Sweet Potato Mod, got to "release" to see the jar files!
+### 如果你想要下载烤地瓜模组，请移步 “release”！
 
-### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
+### Curseforge 链接: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
 
-### Things Added
+### 新的内容
 
-#### Sweet Potato
+#### 地瓜 
 
-    In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw   Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also look all over the world for treasure chests containing Sweet Potatoes. You can also plant any kind of Raw Sweet Potato on farmland to let it grow.
-  
-    Of course, you can also bake Sweet Potatoes. By putting any kind of Raw Sweet Potatoes into Furnaces, Smokers or on Campfires, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger.
-  
-    Similar to Honey Bottles, you will receive a Peel after eating any variants of Sweet Potato.
-  
-    You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. In a future version, you can also put a Sweet Potato into an activated Magic Cube to have a chance to change the attributes of the Sweet Potato.
-  
-#### Sweet Potato Powder
-
-    Sweet Potato Powder is an important item in the mod. You can grind any kind of Raw or Enchanted Sweet Potato in a Grinder to get Sweet Potato Powder.
-  
-    Sweet Potato Powder can upgrade Saplings into their Enchanted variants in an Agroforestry Table, increasing the growing speed of trees.
-  
-    In future versions, Sweet Potato Powder will also be a sublimator for Magic Cube for its work.
-  
-#### Peel
-
-    When you consume any variants of Sweet Potato, you will get a Peel.
-  
-    You can feed them to your pigs.
-  
-    In future versions, it will be an important fuel of Magic Cubes.
-  
-#### Magic Cube
-
-    The Magic Cube has a black texture. When activated, it will lit up with purple halo. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below.
-  
-    In future versions, activated Magic Cube uses Peel for fuel and Sweet Potato Powder for sublimation. It has the function of transmitting a kind of Sweet Potato in to another one, or give it some random enchantments.
-  
-    Magic Cube is a cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined with an Iron Pickaxe.
-  
-#### Grinder
-
-    Grinder’s function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables. In future versions, it can also be used as sublimator in Magic Cubes.
-  
-#### Agroforestry Table
-
-    The working place of Agroforestry Table is made of gold. When the Vanilla Saplings and Sweet Potato Powder are put into the Agroforestry Table, it can enchant the Saplings.  Enchanted saplings will grow much faster.
-  
-#### Enchant Saplings
-    Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
-  
-    You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees.
-  
-    Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that naturally spawn beehives.
-  
-  
-  
-### Change Logs
-
-#### beta 1.0.0:
-
-    Raw Sweet Potato now can also be spawned in Underwater Ruins, Strongholds and Mansions.
+    本模组中，添加了一类食物：地瓜。它有三个品类，分别是紫薯、红薯和白薯，以及三个变种，分别是生地瓜、烤地瓜和附魔地瓜。你可以通过击杀僵尸、尸壳和僵尸村民后来获得任意变种的地瓜。你也可以满世界去寻找含有地瓜的宝箱。你还可以将任意品类的生地瓜种在耕地上让它生长。
     
-    Now, accomplishing the advancement “Balanced Diet” acquired the player to consume all kinds of Sweet Potatoes, Enchanted Carrots and Potatoes.
+    当然，你也可以将地瓜烤着吃，将任意品类的生地瓜放入熔炉、烟熏炉中或放在营火上烤熟后，你将获得对应品种的烤地瓜。烤地瓜可以回复大量的饥饿值。
     
-    Changed the namespaced ID and name of Seed Updater to Agroforestry Table (sweet_potato:agroforestry_table).
+    与蜂蜜瓶类似，吃完任意变种的地瓜后，你将获得一个地瓜皮。
     
-    Now, Grinder has its own GUI, which meant that Sweet Potato Powder can be produced and Agroforestry Table can be crafted.
+    你可以将地瓜放入研磨器中来获得地瓜粉，或者在未来的版本中，将地瓜放入激活的魔法锅，可以有几率改变地瓜的属性。
     
-    Added Enchanted Wheat, Enchanted Carrot, Enchanted Potato, Enchanted Beetroot and Enchanted Sugar Cane, which grows faster. They can be enchanted in Agroforestry Table.
+#### 地瓜粉
+
+    地瓜粉是模组中的重要物品。你可以将任意品类的生或附魔地瓜放入研磨器中研磨来获得地瓜粉。
     
-    Disabled Baked Peel. Now, after consuming a Baked Sweet Potato, the player would obtain a Peel.
+    地瓜粉可以在农林台中将树苗升级为其附魔变种，使树的生长速度加增。
+
+    在未来的版本中，地瓜粉还是魔法锅进行转换的升华剂。
+
+  
+#### 地瓜皮
+
+    当你吃下任意地瓜及其变种时，你会获得一个地瓜皮。
     
-    Enchanted Sapling now could be potted and be compostable.
+    你可以用它来喂猪。
     
-    Now, Magic Cube could update its activation every tick.
+    在未来的版本中，它是魔法锅的重要能量，没有了它，魔法锅也无法正常发挥其作用。
+  
+#### 魔法锅
+
+    魔法锅散发着黑色的光泽，在激活时，会有一圈美丽紫色的光环。你可以通过在它下方3x3区域内点燃灵魂火来激活魔法锅。
+
+    在未来的版本中，激活的魔法锅使用地瓜皮作为能量，地瓜粉作为升华剂。它有给予地瓜转基因或随机附魔的功能，使一种地瓜变为另一种，或将其赋予随机属性，将其变为附魔地瓜。
+
+    魔法锅可以说是性价比很高的抗爆方块。它具有与黑曜石相同的爆炸抗性，但是用铁镐便可挖掘。
+  
+#### 研磨器
+
+    研磨器有着一个磨盘，它的作用是将地瓜研磨为地瓜粉。在研磨器中放入任意品类的生或附魔地瓜会积累相应的数值，当数值积累到15以后，会开始将地瓜研磨为地瓜粉。地瓜粉可以在农林台中升级树苗，在未来的版本中，还可以在魔法锅中充当升华剂。 
+  
+#### 农林台
+
+    农林台的工作处是用黄金打造的，将原版的六种树苗和地瓜粉放入农林台中，可以将树苗升级为其附魔变种。附魔后的树苗生长速度会大幅加增。
     
-    Now, Peel, Enchanted Carrot, Enchanted Potato, Enchanted Beetroot and Enchanted Sugar Cane.
+#### 附魔树苗
     
+    附魔树苗有着亮闪闪的附魔光泽，它有六个变种，分别是附魔橡树树苗、附魔云杉树苗、附魔白桦树苗、附魔丛林树苗、附魔金合欢树苗和附魔深色橡树树苗。
+    
+    你可以用一个普通树苗和一个地瓜粉在农林台中给树苗附魔。附魔树苗可以使树苗生长速度大幅加增。
+
+    与原版树苗相同，附魔树苗可以被放在花盆中、作为燃料，以及被堆肥。附魔橡树树苗和附魔白桦树苗长成的树可以自然生成蜂巢。
+  
+  
+### 更新日志
+
+#### beta-1.0.0
+
+    现在生地瓜可以在海底废墟、主世界要塞与林地府邸的战利品箱中生成。
+    
+    现在，进度“均衡饮食”需要玩家食用所有地瓜及其变种、附魔胡萝卜、附魔马铃薯方可达成。
+
+    将Seed Updater重命名为“农林台”，并将其命名空间ID更改为sweet_potato:agroforestry_table。
+
+    现在，研磨器有了GUI。这意味着地瓜粉可以被正常获得，农林台可以被正常合成。
+
+    添加了附魔小麦、附魔胡萝卜、附魔马铃薯、附魔甜菜与附魔甘蔗，它们比其普通变种的生长速度更快。
+
+    删除了烤地瓜皮。现在食用烤地瓜也会获得正常的地瓜皮。
+
+    附魔树苗现在可以被种在花盆中，也可以被堆肥。
+
+    现在，每个游戏刻魔法锅都会检测其是否应该被激活或被取消激活。
+
+    现在，地瓜皮、附魔马铃薯与附魔胡萝卜可以用于喂食猪。附魔小麦种子与附魔甜菜种子可以用于喂食鹦鹉。
+
 #### alpha.3b:
 
-    Added Enchanted Saplings, which grows faster.
-    
+    添加了六种树苗的附魔变种，它们可以长的更快。
+
 #### alpha.3a:
 
-    Added the advancement “Sweet and Soft” when the player obtains a Sweet Potato.
+    现在，描述为“获得地瓜”的进度有了名字：香甜软嚅（Sweet and Soft）。
 
-    Added the GUI of Seed Updater (Now Agroforestry Table), but had no recipes.
+    为Seed Updater添加了GUI，但是没有配方。
 
 #### alpha.2a：
 
-    Added the advancement ”Magic in Soul” when the player gets a Magic Cube.
+    现在，描述为“获得魔法锅”的进度有了名字：灵魂魔法（Magic in Soul）。
 
-    Added Sweet Potato Crops.
+    添加了地瓜作物。
 
 #### alpha.1c：
 
-    Added some advancement, but untitled.
+    添加了一些未命名的进度。
 
-    Fixed the bug of empty Shipwreck Supply chest in alpha.1b.
+    修复了沉船补给箱为空的Bug。
 
-#### alpha.1b：【Not remanded】
 
-    Now looting chests in these structures could have a chance of spawning any kinds of Sweet Potato:
+#### alpha.1b：【不建议】
 
-    General houses in plain, snowy and taiga villages;
+    现在下列结构中的箱子里有几率生成任意变种的生地瓜：
 
-    Pillager’s Outposts;
-    
-    Shipwreck supply (With empty chest. Bug fixed in alpha.1c).
-    
+        平原村庄普通房屋；
+
+        雪原村庄普通房屋；
+
+        针叶林村庄普通房屋；
+
+        掠夺者前哨站；
+
+        沉船补给箱（箱子为空，在alpha.1c修复）。
+
 #### alpha.1a：
 
-    Now, Zombies, Zombie Villagers and Husks could have an little chance of dropping one of any kinds of Raw Sweet Potato.
-    
-    Now consuming a Sweet Potato in creative mode would not obtain a Peel any more.
-    
-    Added Grinder.
-    
-#### pre-alpha.2a:
+    现在尸壳、僵尸、僵尸村民可以小概率掉落任意变种的生地瓜了，这使得地瓜可以在生存模式下正常获得。
 
-    Now consuming a Raw Sweet Potato will obtain a Peel, while obtaining a Baked Peel after consuming a Baked Sweet Potato.
+    创造模式玩家吃下地瓜后不再获得地瓜皮。
+
+    添加研磨器。
+
+#### pre-alpha.2a:
     
+    现在吃地瓜会获得地瓜皮了。
+
 #### pre-alpha.1a：
 
-    Added all kinds of Sweet Potato, but could only be obtained by creative mode inventory or commands.
-    
-    All kinds of Sweet Potato now can be edible.
-    
-    Added normal & Baked Peels, Potato Powder (now Sweet Potato Powder) and Magic Cube.
+    添加所有地瓜变种，但是无法在生存模式下正常获得。
 
-### Contact Us
+    所有地瓜变种均可食用。
 
-Email:tedexe_work.top@foxmail.com; 171078364@qq.com
+    添加生、烤地瓜皮，地瓜粉，魔法锅，但是它们没有实际用处。
 
-#### Author
+### 联系我们
+
+#### Email:
+
+> tedexe_work.top@foxmail.com
+
+> 171078364@qq.com
+
+#### 作者
 
 > Teddy Li
 
@@ -147,8 +157,7 @@ Email:tedexe_work.top@foxmail.com; 171078364@qq.com
 
 > Dennis Lin
 
-
-#### Contributor
+#### 贡献者
 
 > Peter Yang
 
@@ -163,3 +172,13 @@ Email:tedexe_work.top@foxmail.com; 171078364@qq.com
 > Ironnoob73
 
 > immibis
+
+### 注意事项
+
+    目前该模组仅支持1.16-1.16.4 (pre1)，之前版本的玩家很抱歉，我们暂时不支持你们的版本。(1.13.2以下的玩家，十分抱歉，本模组的作者不开发Forge/Rift。正式版或beta版发布以后，如果有懂Forge/Rift的朋友愿意改写，可以联系我们)
+    
+    加载本Mod需要Fabric Loader和Fabric API。其中Loader的版本不能低于0.9.0，否则无法正常运行。beta-1.0.0 及以上版本模组需要YWlib 1.0.4版本作为前置。
+    
+    虽然现在Mod尚处于开发初期，但是在不久的将来一定会实现早期设计的全部玩法，敬请期待~
+    
+    不要在未经过本模组作者允许的情况下擅自把Mod中的内容添加到你的整合包中！如果你想把本模组添加至你的服务器中，请同时在客户端与服务端安装该Mod。
