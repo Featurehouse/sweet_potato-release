@@ -8,6 +8,8 @@
 
 ### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
 
+### If you find any bugs in this mod, pelease report it to: https://github.com/teddyxlandlee/sweet_potato/issues
+
 ### Things Added
 
 #### Sweet Potato
