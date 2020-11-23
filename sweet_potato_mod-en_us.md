@@ -65,6 +65,14 @@
   
 ### Change Logs
 
+#### 1.0.1:
+    Bug fixed:
+        [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
+        [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
+        [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
+        [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9), and
+        [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
+
 #### beta 1.0.0:
 
     Raw Sweet Potato now can also be spawned in Underwater Ruins, Strongholds and Mansions.
@@ -139,29 +147,34 @@
 
 ### Contact Us
 
-Email:tedexe_work.top@foxmail.com; 171078364@qq.com
-
 #### Author
 
-> Teddy Li
+>	Pigeonia Featurehouse
 
-> Ray Chen
+#### Contributors
 
-> Dennis Lin
+>	Teddy Li
 
+>	Ray MH Chen
 
-#### Contributor
+>	Peter Yang 
 
-> Peter Yang
+>	Dennis Lin
 
-> Garay
+#### Collaborators
 
-> Yimo Zhang (2333tech)
+>	Garay
 
-> squid233
+>	2333tech
 
-> YWsuoyi
+>	squid233
 
-> Ironnoob73
+>	YWsuoyi
 
-> immibis
+>	Ironnoob73
+
+#### Supporters
+
+>	immibis
+
+>	Zn_Ar
