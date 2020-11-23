@@ -4,13 +4,19 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tip: this mod currently only supports 1.16-1.16.4, because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
 
+
 ### If you want to download Sweet Potato Mod, go to "release" to see the jar files!
+
 
 ### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
 
+
 ### If you find any bugs in this mod, pelease report it to: https://github.com/teddyxlandlee/sweet_potato/issues
 
+
+
 ### Things Added
+
 
 #### Sweet Potato
 
@@ -22,6 +28,7 @@
   
     You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. In a future version, you can also put a Sweet Potato into an activated Magic Cube to have a chance to change the attributes of the Sweet Potato.
   
+
 #### Sweet Potato Powder
 
     Sweet Potato Powder is an important item in the mod. You can grind any kind of Raw or Enchanted Sweet Potato in a Grinder to get Sweet Potato Powder.
@@ -30,6 +37,7 @@
   
     In future versions, Sweet Potato Powder will also be a sublimator for Magic Cube for its work.
   
+
 #### Peel
 
     When you consume any variants of Sweet Potato, you will get a Peel.
@@ -37,6 +45,7 @@
     You can feed them to your pigs.
   
     In future versions, it will be an important fuel of Magic Cubes.
+  
   
 #### Magic Cube
 
@@ -46,13 +55,16 @@
   
     Magic Cube is a cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined with an Iron Pickaxe.
   
+  
 #### Grinder
 
     Grinder’s function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables. In future versions, it can also be used as sublimator in Magic Cubes.
   
+  
 #### Agroforestry Table
 
     The working place of Agroforestry Table is made of gold. When the Vanilla Saplings and Sweet Potato Powder are put into the Agroforestry Table, it can enchant the Saplings.  Enchanted saplings will grow much faster.
+  
   
 #### Enchant Saplings
     Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
@@ -67,11 +79,11 @@
 
 #### 1.0.1:
     Bug fixed:
-        [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
-        [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
-        [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
-        [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9), and
-        [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
+> [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
+> [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
+> [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
+> [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9), and
+> [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
 
 #### beta 1.0.0:
 
