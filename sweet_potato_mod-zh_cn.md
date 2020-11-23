@@ -8,6 +8,10 @@
 
 ### Curseforge 链接: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
 
+### 如果你发现了模组中的Bug，烦请汇报至：https://github.com/teddyxlandlee/sweet_potato/issues
+
+
+
 ### 新的内容
 
 #### 地瓜 
@@ -63,6 +67,14 @@
   
   
 ### 更新日志
+
+#### 1.0.1:
+    修复了:
+> [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
+> [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
+> [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
+> [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9)和
+> [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
 
 #### beta-1.0.0
 
@@ -149,29 +161,39 @@
 
 > 171078364@qq.com
 
+### Contact Us
+
+#### 创作团队
+
+>	Pigeonia Featurehouse
+
 #### 作者
 
-> Teddy Li
+>	Teddy Li
 
-> Ray Chen
+>	Ray MH Chen
 
-> Dennis Lin
+>	Peter Yang 
+
+>	Dennis Lin
 
 #### 贡献者
 
-> Peter Yang
+>	Garay
 
-> Garay
+>	2333tech
 
-> Yimo Zhang (2333tech)
+>	squid233
 
-> squid233
+>	YWsuoyi
 
-> YWsuoyi
+>	Ironnoob73
 
-> Ironnoob73
+#### 支持者
 
-> immibis
+>	immibis
+
+>	Zn_Ar
 
 ### 注意事项
 
