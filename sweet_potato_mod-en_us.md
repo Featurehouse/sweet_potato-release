@@ -159,6 +159,12 @@
 
 ### Contact Us
 
+#### Email:
+
+> tedexe_work.top@foxmail.com
+
+> 171078364@qq.com
+
 #### Author
 
 >	Pigeonia Featurehouse
