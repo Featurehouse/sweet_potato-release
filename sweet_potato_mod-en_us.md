@@ -161,8 +161,7 @@
 
 #### Email:
 
-> tedexe_work.top@foxmail.com
-
+> tedexe_work.top@foxmail.com  
 > 171078364@qq.com
 
 #### Author
@@ -171,28 +170,19 @@
 
 #### Contributors
 
->	Teddy Li
-
->	Ray MH Chen
-
->	Peter Yang 
-
->	Dennis Lin
+>	Teddy Li  
+>	Ray MH Chen  
+>	Peter Yang
 
 #### Collaborators
 
->	Garay
-
->	2333tech
-
->	squid233
-
->	YWsuoyi
-
+>	Garay  
+>	2333tech  
+>	squid233  
+>	YWsuoyi  
 >	Ironnoob73
 
 #### Supporters
 
->	immibis
-
+>	immibis  
 >	Zn_Ar
