@@ -77,6 +77,14 @@
   
 ### Change Logs
 
+#### 1.0.2:
+
+    Updated Lang file.
+    
+    Grinder now can show whether if its grinding.
+    
+    Optimized Magic Cube.
+    
 #### 1.0.1:
     Bug fixed:
 > [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
