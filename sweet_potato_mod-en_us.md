@@ -145,24 +145,12 @@
     
     Added Grinder.
     
-#### pre-alpha.2a:
-
-    Now consuming a Raw Sweet Potato will obtain a Peel, while obtaining a Baked Peel after consuming a Baked Sweet Potato.
-    
-#### pre-alpha.1a：
-
-    Added all kinds of Sweet Potato, but could only be obtained by creative mode inventory or commands.
-    
-    All kinds of Sweet Potato now can be edible.
-    
-    Added normal & Baked Peels, Potato Powder (now Sweet Potato Powder) and Magic Cube.
 
 ### Contact Us
 
 #### Email:
 
-> tedexe_work.top@foxmail.com
-
+> tedexe_work.top@foxmail.com  
 > 171078364@qq.com
 
 #### Author
@@ -171,28 +159,19 @@
 
 #### Contributors
 
->	Teddy Li
-
->	Ray MH Chen
-
->	Peter Yang 
-
->	Dennis Lin
+>	Teddy Li  
+>	Ray MH Chen  
+>	Peter Yang
 
 #### Collaborators
 
->	Garay
-
->	2333tech
-
->	squid233
-
->	YWsuoyi
-
+>	Garay  
+>	2333tech  
+>	squid233  
+>	YWsuoyi  
 >	Ironnoob73
 
 #### Supporters
 
->	immibis
-
+>	immibis  
 >	Zn_Ar

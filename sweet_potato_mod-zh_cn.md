@@ -141,24 +141,12 @@
 
     添加研磨器。
 
-#### pre-alpha.2a:
-    
-    现在吃地瓜会获得地瓜皮了。
-
-#### pre-alpha.1a：
-
-    添加所有地瓜变种，但是无法在生存模式下正常获得。
-
-    所有地瓜变种均可食用。
-
-    添加生、烤地瓜皮，地瓜粉，魔法锅，但是它们没有实际用处。
 
 ### 联系我们
 
 #### Email:
 
-> tedexe_work.top@foxmail.com
-
+> tedexe_work.top@foxmail.com  
 > 171078364@qq.com
 
 
@@ -168,30 +156,21 @@
 
 #### 作者
 
->	Teddy Li
-
->	Ray MH Chen
-
->	Peter Yang 
-
->	Dennis Lin
+>	Teddy Li  
+>	Ray MH Chen  
+>	Peter Yang
 
 #### 贡献者
 
->	Garay
-
->	2333tech
-
->	squid233
-
->	YWsuoyi
-
+>	Garay  
+>	2333tech  
+>	squid233  
+>	YWsuoyi  
 >	Ironnoob73
 
 #### 支持者
 
->	immibis
-
+>	immibis  
 >	Zn_Ar
 
 ### 注意事项
