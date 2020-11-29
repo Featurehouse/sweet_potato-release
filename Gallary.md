@@ -1,4 +1,4 @@
-# sweet_potato_mod
+# Sweet Potato Mod Gallary
 
 ## Try all kinds of food and magic in sweet potato mod!
 
@@ -37,15 +37,6 @@
 #### Enchanted Saplings
 
 ![Enchanted_Saplings.png](https://i.loli.net/2020/11/29/YwMi7lLHeOhBCoX.png)
-
-
-
-#### Sweet Potato Crops
-
-![Sweet_Potato_Crops.png](https://i.loli.net/2020/11/29/C4Ds9p2ycuqXlaF.png)
-
-
-
 
 
 
