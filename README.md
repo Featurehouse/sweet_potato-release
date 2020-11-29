@@ -1,16 +1,11 @@
-# sweet_potato_mod
+# Sweet Potato Mod
 
-## Try all kinds of food and magic in sweet potato mod!
+## Try all kinds of food and magic in Sweet Potato Mod!
 
 -----------------------------------------------------------------------------------------
 
-#### For the mods description, please left-click the sweet_potato_mod:xx_xx.md !
+#### [Mod description](https://github.com/Rayawa/sweet_potato/blob/main/sweet_potato_mod-en_us.md) | [模组介绍](https://github.com/Rayawa/sweet_potato/blob/main/sweet_potato_mod-zh_cn.md)
 
-> en_us is English!  
-> zh_cn is Chinese!
-
-#### For the mods screenshots, please left-click the Gallary.md !
-
-#### 要想查看模组图片，请单击Gallary.md!
+#### [Mod Screenshots](https://github.com/Rayawa/sweet_potato/blob/main/Gallary.md) | [模组图片](https://github.com/Rayawa/sweet_potato/blob/main/Gallary.md)
 
 ![Sweet_Potato_Crops.png](https://i.loli.net/2020/11/23/zEqy5TQexFDAKuI.png)
