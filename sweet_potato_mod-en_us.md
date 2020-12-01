@@ -67,13 +67,18 @@
   
   
 #### Enchant Saplings
+
     Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
   
     You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees.
   
     Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that naturally spawn beehives.
-  
-  
+    
+##### Enchanted Crops
+
+    Enchanted Crops are the upgraded variants of Vanilla crops. You can put a Vanilla crop and a Sweet Potato Powder to obtain an Enchanted Crop.They can grow much faster.
+    
+    They can be looted as the Enchanted variants only by using Silk Touch tools.
   
 ### Change Logs
 
@@ -173,6 +178,7 @@
 
 #### Collaborators
 
+>   Dennis Lin  
 >	Garay  
 >	2333tech  
 >	squid233  
