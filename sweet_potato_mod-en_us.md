@@ -189,3 +189,11 @@
 
 >	immibis  
 >	Zn_Ar
+
+
+### NOTICE
+
++ This mod now only supports Minecraft 1.16-1.17 (snapshots). For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us. (see “Contact us”)
++ In order to run this mod, you need Fabric Loader and Fabric API. Fabric Loader’s version can not be under 0.9.0. It is recommend to use the lasted version of Fabric API.
++ Although this mod is still in the early stage of development, in the near future we will develop all features we planned.
++ DO NOT ADD THIS MOD INTO ANY OF YOUR MODPACKS UNLESS WE AGREED! If you want to add this mod into your server, please both put the jar archive in client and server.
