@@ -2,7 +2,7 @@
 ## Try all kinds of food and magic in sweet potato mod!
 ![2020-10-28_19.30.37.png](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Tip: this mod currently only supports 1.16-1.16.4, because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
+### Tip: this mod currently only supports 1.16-1.17 (snapshots), because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
 
 
 ### If you want to download Sweet Potato Mod, go to "release" to see the jar files!
