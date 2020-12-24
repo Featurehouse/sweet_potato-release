@@ -1,5 +1,28 @@
 # Sweet_Potato_Mod
 ## Try all kinds of food and magic in sweet potato mod!
+# Christmas Special Release 2020
+![2020-12-19_10.29.10.png](https://i.loli.net/2020/12/24/qtmSflpKBYQxIzs.png)
+# Sweet Potato Mod: Christmas Special Release 2020
+Ladies and Gentlemen:  
+**Merry Christmas!**  
+	To celebrate this holy and special vacation, we prepared this Sweet Potato Christmas Special Release 2020!  
+### Things added
+#### Christmas Tree
+	Christmas Tree is a special tree added in this special release. It uses Spruce Log as its trunk, with its own leaves.  
+	When the tree is finally grown, some of its leaves will obtain gifts.
+#### Treating Bowl
+	Treating Bowl is crafted by Sweet Potato Powder with a bowl underneath. It can trigger Christmatato.  
+	Treating Bowl is very meaningful, so please keep every Treating Bowl you crafted.
+#### Christmatato
+	Christmatato is a special way to obtain Christmas gifts, which contain Christmas Tree Sapling. You can hold a Treating Bowl	in you offhand with any kinds of Raw Sweet Potato in your mainhand while facing a Villager to trigger Christmatato. You can obtain variants of gifts from the Village.  
+#### Christmas Sock.
+	When you rejoin your world with this special release, you will find that all the Sweet Potatoes have changed their textures, and Peels have been changed to Christmas Socks.  
+	Christmas Socks have two variants. One of them called Bundled Sock contains gifts. You can unwrap them just by right-clicking.  
+	You can obtain them either by Christmatato or breaking Christmas Tree Leaves.  
+#### Advancements
+	We added plenty of advancements to lead you unlock the hole story of the special release. Good luck!  
+    
+    
 ![2020-10-28_19.30.37.png](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tip: this mod currently only supports 1.16-1.17 (snapshots), because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
