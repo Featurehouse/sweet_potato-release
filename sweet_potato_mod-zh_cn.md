@@ -6,7 +6,7 @@
 ### 温馨提示：本模组目前仅支持1.16-1.17（快照），因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。  
 ### 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
 ### 如果你想要下载烤地瓜模组，请移步 [Release](https://github.com/Featurehouse/sweet_potato-release/releases) ！  
-### 其它平台外链： [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [GitHub](https://github.com/Featurehouse/sweet_potato-release) | [MCBBS](https://mcbbs.net/thread-1132119-1-1.html)  
+### 其它平台外链： [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [MCBBS](https://mcbbs.net/thread-1132119-1-1.html)  
 ### 如果你发现了模组中的Bug，烦请汇报至[Issues](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) 。  
 ### 请持续关注[一颗水晶Rayawa](https://space.bilibili.com/524181098) 在Bilibili发布的模组视频！  
 ### 联系我们: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com
