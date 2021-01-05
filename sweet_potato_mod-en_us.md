@@ -1,109 +1,95 @@
-# Sweet_Potato_Mod
-## Try all kinds of food and magic in sweet potato mod!
-# Christmas Special Release 2020
-![2020-12-19_10.29.10.png](https://i.loli.net/2020/12/24/qtmSflpKBYQxIzs.png)
-# Sweet Potato Mod: Christmas Special Release 2020
-Ladies and Gentlemen:  
-**Merry Christmas!**  
-	To celebrate this holy and special vacation, we prepared this Sweet Potato Christmas Special Release 2020!  
-### Things added
-#### Christmas Tree
-	Christmas Tree is a special tree added in this special release. It uses Spruce Log as its trunk, with its own leaves.  
-	When the tree is finally grown, some of its leaves will obtain gifts.
-#### Treating Bowl
-	Treating Bowl is crafted by Sweet Potato Powder with a bowl underneath. It can trigger Christmatato.  
-	Treating Bowl is very meaningful, so please keep every Treating Bowl you crafted.
-#### Christmatato
-	Christmatato is a special way to obtain Christmas gifts, which contain Christmas Tree Sapling. You can hold a Treating Bowl	in you offhand with any kinds of Raw Sweet Potato in your mainhand while facing a Villager to trigger Christmatato. You can obtain variants of gifts from the Village.  
-#### Christmas Sock.
-	When you rejoin your world with this special release, you will find that all the Sweet Potatoes have changed their textures, and Peels have been changed to Christmas Socks.  
-	Christmas Socks have two variants. One of them called Bundled Sock contains gifts. You can unwrap them just by right-clicking.  
-	You can obtain them either by Christmatato or breaking Christmas Tree Leaves.  
-#### Advancements
-	We added plenty of advancements to lead you unlock the hole story of the special release. Good luck!  
-    
-    
-![2020-10-28_19.30.37.png](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Tip: this mod currently only supports 1.16-1.17 (snapshots), because the agricultural and magical styles of the entire module are closely related to the newer Black Stone style of the 1.16 update.
-
-
-### If you want to download Sweet Potato Mod, go to "release" to see the jar files!
-
-
-### Also in curseforge: https://www.curseforge.com/minecraft/mc-mods/sweet-potato
-
-
-### If you find any bugs in this mod, pelease report it to: https://github.com/teddyxlandlee/sweet_potato/issues
-
-
-
+# Sweet Potato Mod
+## Try all kinds of food and magic in sweet potato mod!  
+## [Homepage of Pigeonia Featurehouse](https://github.com/Featurehouse)
+![Title](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
+--------------------------------------------
+### Tip: this mod currently only supports 1.17(snapshots)-1.16, because the agricultural and magical styles of the entire mod are closely related to Nether Update-style.  
+### DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
+### If you want to download Sweet Potato Mod, go to [Release](https://github.com/Featurehouse/sweet_potato-release/releases) to see the jar files!  
+### Also on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [GitHub](https://github.com/Featurehouse/sweet_potato-release)  
+### If you find any bugs in this mod, pelease report it [here](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) .  
+### :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg) .  
+### Email: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com  
+---------------------------------------
 ### Things Added
 
 
 #### Sweet Potato
 
-    In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw   Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also look all over the world for treasure chests containing Sweet Potatoes. You can also plant any kind of Raw Sweet Potato on farmland to let it grow.
-  
-    Of course, you can also bake Sweet Potatoes. By putting any kind of Raw Sweet Potatoes into Furnaces, Smokers or on Campfires, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger.
-  
-    Similar to Honey Bottles, you will receive a Peel after eating any variants of Sweet Potato.
-  
-    You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. In a future version, you can also put a Sweet Potato into an activated Magic Cube to have a chance to change the attributes of the Sweet Potato.
+    In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also forage all over the world for treasure chests containing Sweet Potatoes. After you obtain a Sweet Potato, you will reach the advancement:”Sweet and Soft”. You can also plant any kind of Raw Sweet Potatoes on farmland to let it grow.
+	
+	Advancement:”Balanced Diet” requires the player to consume all categories of Raw and Baked Sweet Potatoes.
+	
+	Also, you can also bake Sweet Potatoes. By putting any kind of Raw Sweet Potatoes into a furnace, smokers or on a campfire, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger. You will obtain a Peel after eating any variants of Sweet Potato.
+
+	You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. Furthermore, Sweet Potato is compostable.
   
 
 #### Sweet Potato Powder
 
-    Sweet Potato Powder is an important item in the mod. You can grind any kind of Raw or Enchanted Sweet Potato in a Grinder to get Sweet Potato Powder.
-  
-    Sweet Potato Powder can upgrade Saplings into their Enchanted variants in an Agroforestry Table, increasing the growing speed of trees.
-  
-    In future versions, Sweet Potato Powder will also be a sublimator for Magic Cube for its work.
+    Sweet Potato Powder is an important item in the Mod. You can grind any kind of Raw or Enchanted Sweet Potatoes into a Grinder to get Sweet Potato Powder.
+	
+	Sweet Potato Powders can upgrade saplings and crops into their Enchanted variants in Agroforestry Tables, to increase the growing speed of trees and crops.
   
 
 #### Peel
 
     When you consume any variants of Sweet Potato, you will get a Peel.
-  
-    You can feed them to your pigs.
-  
-    In future versions, it will be an important fuel of Magic Cubes.
+	
+	You can feed them to your pigs. Besides, Peels are also compostable.
   
   
 #### Magic Cube
 
-    The Magic Cube has a black texture. When activated, it will lit up with purple halo. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below.
-  
-    In future versions, activated Magic Cube uses Peel for fuel and Sweet Potato Powder for sublimation. It has the function of transmitting a kind of Sweet Potato in to another one, or give it some random enchantments.
-  
-    Magic Cube is a cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined with an Iron Pickaxe.
+	Magic Cube has a black texture. When it's activated, it will lit up with purple halo. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below.
+	
+	After obtaining a Magic Cube, you will reach the advancement:”Magic in Soul”.
+	
+	Magic Cube is a kind of cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined just by an Iron Pickaxe.
+	
+	Magic Cube is also a great choice for house decoration.
   
   
 #### Grinder
 
-    Grinder’s function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables. In future versions, it can also be used as sublimator in Magic Cubes.
+	Grinder’s function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables.
   
   
 #### Agroforestry Table
 
-    The working place of Agroforestry Table is made of gold. When the Vanilla Saplings and Sweet Potato Powder are put into the Agroforestry Table, it can enchant the Saplings.  Enchanted saplings will grow much faster.
+	The working place of Agroforestry Table is made of gold. When the Vanilla saplings, crops and Sweet Potato Powder are put into the Agroforestry Table, it can enchant these things. Enchanted saplings and crops will grow much faster.
   
   
 #### Enchant Saplings
 
-    Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
-  
-    You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees.
-  
-    Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that naturally spawn beehives.
+	Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
+	
+	You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees. They can only be looted by using any kinds of Silk Touch tools.
+	
+	Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that can naturally spawn beehives randomly.
     
+	
 ##### Enchanted Crops
-
-    Enchanted Crops are the upgraded variants of Vanilla crops. You can put a Vanilla crop and a Sweet Potato Powder to obtain an Enchanted Crop.They can grow much faster.
-    
-    They can be looted as the Enchanted variants only by using Silk Touch tools.
+	Enchanted Crops are the upgraded variants of Vanilla crops. You can put a Vanilla crop and a Sweet Potato Powder to obtain an Enchanted Crop.They can grow much faster. You can plant any kind of Enchanted Crops on farmland to let it grow.
+	
+	Like the Vanilla crops, Enchanted Crops can be composted.
+	
+	Enchanted Wheat Seeds and Enchanted Beetroot Seeds can be used to breed parrots. Enchanted Potatoes and Enchanted Carrots can be used to breed pigs.
+	
+	They can be looted as the Enchanted variants only by using Silk Touch tools.
+	
   
 ### Change Logs
+
+#### 1.0.3:
+
+	Now reaching advancement Balanced Diet will no longer require the player to consume Enchanted Sweet Potatoes.
+	
+	Bug fixed:
+> [SPM-B014](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/14),
+> [SPM-B016](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/16),
+> [SPM-B017](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/17) and
+> [SPM-B019](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/19).
 
 #### 1.0.2:
 
@@ -114,6 +100,7 @@ Ladies and Gentlemen:
     Optimized Magic Cube.
     
 #### 1.0.1:
+
     Bug fixed:
 > [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
 > [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
@@ -182,12 +169,7 @@ Ladies and Gentlemen:
     Added Grinder.
     
 
-### Contact Us
-
-#### Email:
-
-> tedexe_work.top@foxmail.com  
-> 171078364@qq.com
+### Acknowledgements
 
 #### Author
 
@@ -195,9 +177,9 @@ Ladies and Gentlemen:
 
 #### Contributors
 
->	Teddy Li  
->	Ray MH Chen  
->	Peter Yang
+>	Teddy Li (teddyxlandlee)  
+>	Ray Chen (Rayawa)  
+>	Peter Yang (Peterice)  
 
 #### Collaborators
 
@@ -206,17 +188,19 @@ Ladies and Gentlemen:
 >	2333tech  
 >	squid233  
 >	YWsuoyi  
->	Ironnoob73
+>	Ironnoob73  
 
 #### Supporters
 
+>	Teacher Qiu Yuting  
 >	immibis  
->	Zn_Ar
+>	Zn_Ar  
 
 
 ### NOTICE
 
-+ This mod now only supports Minecraft 1.16-1.17 (snapshots). For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us. (see “Contact us”)
-+ In order to run this mod, you need Fabric Loader and Fabric API. Fabric Loader’s version can not be under 0.9.0. It is recommend to use the lasted version of Fabric API.
-+ Although this mod is still in the early stage of development, in the near future we will develop all features we planned.
-+ DO NOT ADD THIS MOD INTO ANY OF YOUR MODPACKS UNLESS WE AGREED! If you want to add this mod into your server, please both put the jar archive in client and server.
++ This mod now only supports Minecraft 1.16-1.17 (snapshots). For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us.
++ DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
++ In order to run this Mod, you need Fabric Loader and Fabric API. Fabric Loader’s version can not be under 0.9.0. It is recommend to use the latest version of Fabric API.
++ Although this Mod is still in the early stage of development, in the near future we will develop all the features we planned.
++ DO NOT ADD THIS MOD INTO ANY OF YOUR MODPACKS UNLESS WE AGREED! If you want to add this Mod into your server, please both put the jar file in client and server.
