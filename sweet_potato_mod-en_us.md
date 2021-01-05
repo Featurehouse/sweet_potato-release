@@ -6,7 +6,7 @@
 ### Tip: this mod currently only supports 1.17(snapshots)-1.16, because the agricultural and magical styles of the entire mod are closely related to Nether Update-style.  
 ### DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
 ### If you want to download Sweet Potato Mod, go to [Release](https://github.com/Featurehouse/sweet_potato-release/releases) to see the jar files!  
-### Also on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [GitHub](https://github.com/Featurehouse/sweet_potato-release)  
+### Also on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) 
 ### If you find any bugs in this mod, pelease report it [here](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) .  
 ### :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg) .  
 ### Email: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com  
