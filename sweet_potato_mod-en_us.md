@@ -3,7 +3,7 @@
 ## [Homepage of Pigeonia Featurehouse](https://github.com/Featurehouse)
 ![Title](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 --------------------------------------------
-### Tip: this mod currently only supports 1.17(snapshots)-1.16, because the agricultural and magical styles of the entire mod are closely related to Nether Update-style.  
+### Tip: this mod currently only supports 1.17(Snapshots)-1.16, because the agricultural and magical styles of the entire mod are closely related to Nether Update-style.  
 ### DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
 ### If you want to download Sweet Potato Mod, go to [Release](https://github.com/Featurehouse/sweet_potato-release/releases) to see the jar files!  
 ### Also on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) 
@@ -199,7 +199,7 @@
 
 ### NOTICE
 
-+ This mod now only supports Minecraft 1.16-1.17 (snapshots). For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us.
++ This mod now only supports Minecraft 1.17(Snapshots)-1.16. For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us.
 + DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
 + In order to run this Mod, you need Fabric Loader and Fabric API. Fabric Loader’s version can not be under 0.9.0. It is recommend to use the latest version of Fabric API.
 + Although this Mod is still in the early stage of development, in the near future we will develop all the features we planned.
