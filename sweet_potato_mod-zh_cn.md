@@ -3,7 +3,7 @@
 ## [Pigeonia Featurehouse主页](https://github.com/Featurehouse)
 ![标题](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 --------------------------------------------------------
-### 温馨提示：本模组目前仅支持1.16-1.17（快照），因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。  
+### 温馨提示：本模组目前仅支持1.17（快照）-1.16，因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。  
 ### 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
 ### 如果你想要下载烤地瓜模组，请移步 [Release](https://github.com/Featurehouse/sweet_potato-release/releases) ！  
 ### 其它平台外链： [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [MCBBS](https://mcbbs.net/thread-1132119-1-1.html)  
@@ -202,7 +202,7 @@
 
 ### 注意事项
 
-+ 目前该模组仅支持1.16-1.17 (快照)，之前版本的玩家很抱歉，我们暂时不支持你们的版本。(1.13.2以下的玩家，十分抱歉，本模组的作者不开发Forge/Rift/LiteLoader。如果有懂Forge/Rift/LiteLoader的朋友愿意改写，可以联系我们)
++ 目前该模组仅支持1.17 (快照)-1.16，之前版本的玩家很抱歉，我们暂时不支持你们的版本。(1.13.2以下的玩家，十分抱歉，本模组的作者不开发Forge/Rift/LiteLoader。如果有懂Forge/Rift/LiteLoader的朋友愿意改写，可以联系我们)
 + 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
 + 加载本Mod需要Fabric Loader和Fabric API。其中Loader的版本不能低于0.9.0，否则无法正常运行。API最好为最新版。
 + 虽然现在Mod尚处于开发初期，但是在不久的将来一定会实现早期设计的全部玩法，敬请期待~
