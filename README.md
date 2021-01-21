@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------------------------------
 
-#### [Mod description](https://github.com/Featurehouse/sweet_potato-release/blob/main/sweet_potato-description_en_us.md) | [模组介绍](https://github.com/Featurehouse/sweet_potato-release/blob/main/sweet_potato-descripton_zh_cn.md)
+#### [Mod description](https://github.com/Featurehouse/sweet_potato-release/blob/main/sweet_potato-description_en_us.md) | [模组介绍](https://github.com/Featurehouse/sweet_potato-release/blob/main/sweet_potato-description_zh_cn.md)
 
 #### [Mod Screenshots](https://github.com/Featurehouse/sweet_potato-release/blob/main/Gallary.md) | [模组图片](https://github.com/Featurehouse/sweet_potato-release/blob/main/Gallary.md)
 
