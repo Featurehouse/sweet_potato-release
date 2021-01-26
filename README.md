@@ -6,5 +6,5 @@
 
 #### [Mod Screenshots](https://github.com/Featurehouse/sweet_potato-release/blob/main/Gallary.md) | [模组图片](https://github.com/Featurehouse/sweet_potato-release/blob/main/Gallary.md)
 -----------------------
-We have opened the Discussion Area. We’re using Discussions as a place to let you discuss about this mod!
+#### We have opened the Discussion Area. We’re using Discussions as a place to let you discuss about this mod!
 ![Sweet_Potato_Crops.png](https://i.loli.net/2020/11/23/zEqy5TQexFDAKuI.png)
