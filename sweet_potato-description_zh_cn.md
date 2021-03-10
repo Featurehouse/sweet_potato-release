@@ -5,11 +5,12 @@
 --------------------------------------------------------
 ### 温馨提示：本模组目前仅支持1.17（快照）-1.16，因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。  
 ### 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
-### 如果你想要下载烤地瓜模组，请移步 [Release](https://github.com/Featurehouse/sweet_potato-release/releases) ！  
+### 如果您想要下载烤地瓜模组，请移步 [Release](https://github.com/Featurehouse/sweet_potato-release/releases) ！  
 ### 其它平台外链： [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) | [MCBBS](https://mcbbs.net/thread-1132119-1-1.html)  
-### 如果你发现了模组中的Bug，烦请汇报至[Issues](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) 。  
-### 请持续关注[一颗水晶Rayawa](https://space.bilibili.com/524181098) 在Bilibili发布的模组视频！  
+### 如果您发现了模组中的Bug或对本模组有建议，烦请汇报至[Issues](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) 。  
+### 请持续关注[一颗水晶Rayawa](https://space.bilibili.com/524181098)和[teddyxlandlee](https://space.bilibili.com/578744436) 在Bilibili发布的模组视频或 [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg)在YouTube上发布的视频！  
 ### 联系我们: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com
+### Crowding本地化翻译：https://crowdin.com/project/spm
 -------------------------------------------------
 ### 新的内容
 
@@ -20,7 +21,9 @@
 	
 	当然，你也可以将地瓜烤着吃，将任意品类的生地瓜放入熔炉、烟熏炉中或放在营火上烤熟后，你将获得对应品类的烤地瓜。烤地瓜可以回复大量的饥饿值。吃完任意变种的地瓜后，你将获得一个地瓜皮。
 	
-	进度：“均衡饮食”现在要求玩家吃下任意品类的生地瓜和烤地瓜。
+	将三个任意品类的生地瓜放在激活的魔法锅中，你可以将它们转换为其他品类的生地瓜，或对其进行随机附魔附魔，变为附魔地瓜。吃下附魔地瓜会获得一个或多个状态效果。
+
+	进度：“均衡饮食”现在要求玩家吃下所有种类的地瓜。
 	
 	你可以将地瓜放入研磨器中来获得地瓜粉，或者将地瓜放入堆肥桶中来堆肥。
 	
@@ -31,6 +34,8 @@
 	
 	地瓜粉可以在农林台中将树苗和作物升级为其附魔变种，使它们的生长速度加增。
 	
+	地瓜粉还是魔法锅中的升华剂。在魔法锅中加入地瓜粉可以大幅提高转换的品质。
+	
 	
 #### 地瓜皮
 
@@ -38,12 +43,16 @@
 	
 	你可以用它来喂猪，或在堆肥桶中堆肥。
 	
+	地瓜皮是魔法锅的重要燃料。没有它，魔法锅不会进行转换。
+	
 	
 #### 魔法锅
 
 	魔法锅散发着黑色的光泽，在激活时，会有一圈美丽紫色的光环。你可以通过在它下方3x3区域内点燃灵魂火来激活魔法锅。
 
 	在获得魔法锅后，你将达成进度：“灵魂魔法”。
+	
+	将三个任意品类的生地瓜放在激活的魔法锅中，你可以将它们转换为其他品类的生地瓜，或对其进行随机附魔附魔，变为附魔地瓜。吃下附魔地瓜会获得一个或多个状态效果。
 
 	魔法锅可以说是性价比很高的抗爆方块。它具有与黑曜石相同的爆炸抗性，但是用铁镐便可挖掘。
 
@@ -63,7 +72,9 @@
 #### 附魔树苗
 
 	附魔树苗有着亮闪闪的附魔光泽，它有六个变种，分别是附魔橡树树苗、附魔云杉树苗、附魔白桦树苗、附魔丛林树苗、附魔金合欢树苗和附魔深色橡树树苗。种下的附魔树苗只能用附魔了精准采集的工具来获得它们的附魔变种。
-	你可以用一个普通树苗和一个地瓜粉在农林台中给树苗附魔。附魔树苗可以使树苗生长速度大幅加增。
+
+	你可以用一个普通树苗和一个地瓜粉在农林台中给树苗附魔。相比于普通树苗，附魔树苗的生长大幅加增，且会生成附魔树。
+
 	与原版树苗相同，附魔树苗可以被放在花盆中、作为燃料，以及被堆肥。附魔橡树树苗和附魔白桦树苗长成的树有几率自然生成蜂巢。
 	
 	
@@ -80,7 +91,28 @@
  
 ### 更新日志
 
-#### 1.0.3：
+#### 1.2.0:
+	为魔法锅添加了新的功能，现在魔法锅可以对地瓜进行转基因或随机附魔。
+	添加了音效：魔法锅激活、魔法锅熄灭、研磨器研磨、农林台升级。
+	通过并添加了[SPM-0013](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/13) 的内容，现在大部分配方可通过获得特定的原料解锁。
+	修复了[SPM-0026](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/26) ：无法在MultiMC启动器中加载模组信息。
+	现在依赖Minecraft 1.16.5-1.16.2的魔法组发行版与[Shurlin模组](https://www.curseforge.com/minecraft/mc-mods/shurlin) 联动。
+	将模组类文件的主题从io.featurehouse迁移至org.featurehouse。
+	现在支持1.17-1.16.2的模组发行版依赖\>0.30.0版本的Fabric API；支持1.17快照的模组发行版现在仅兼容21w05a及以上Minecraft版本。
+	进度“均衡饮食”现在需要食用包括附魔地瓜在内的所有变种的地瓜。
+	提高了与其他模组的兼容性。
+	提高了模组在服务器的稳定性。
+	将本地化翻译迁移至Crowdin: https://crowdin.com/project/spm
+	
+#### 1.1.0:
+
+	将模组主要类文件从io.github.teddyxlandlee.sweet_potato迁移至io.featurehouse.spm。
+	添加了附魔树。
+	修复了[SPM-B002](https://github.com/Featurehouse/sweet_potato-issueTracker/2)。
+	添加了一些统计信息。
+	依赖Minecraft 1.16.1-1.16的模组发行版与[Shurlin模组](https://www.curseforge.com/minecraft/mc-mods/shurlin) 联动。
+
+#### 1.0.3:
 	现在，进度“均衡饮食”不再需要玩家食用三种品类的附魔地瓜。
 	
 	修复了：
@@ -187,7 +219,7 @@
 #### 贡献者
 
 >   Dennis Lin  
->	Garay  
+>	Garay Shurlin 
 >	2333tech  
 >	squid233  
 >	YWsuoyi  
@@ -202,7 +234,7 @@
 
 ### 注意事项
 
-+ 目前该模组仅支持1.17 (快照)-1.16，之前版本的玩家很抱歉，我们暂时不支持你们的版本。(1.13.2以下的玩家，十分抱歉，本模组的作者不开发Forge/Rift/LiteLoader。如果有懂Forge/Rift/LiteLoader的朋友愿意改写，可以联系我们)
++ 目前该模组仅支持1.17 (快照)-1.16，更早版本的玩家很抱歉，我们暂时不支持你们的版本。(1.13.2以下的玩家，十分抱歉，本模组的作者不开发Forge/Rift/LiteLoader。如果有懂Forge/Rift/LiteLoader的朋友愿意改写，可以联系我们)
 + 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
 + 加载本Mod需要Fabric Loader和Fabric API。其中Loader的版本不能低于0.9.0，否则无法正常运行。API最好为最新版。
 + 虽然现在Mod尚处于开发初期，但是在不久的将来一定会实现早期设计的全部玩法，敬请期待~
