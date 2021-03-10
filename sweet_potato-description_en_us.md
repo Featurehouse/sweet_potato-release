@@ -7,20 +7,20 @@
 ### DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
 ### If you want to download Sweet Potato Mod, go to [Release](https://github.com/Featurehouse/sweet_potato-release/releases) to see the jar files!  
 ### Also on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) 
-### If you find any bugs in this mod, pelease report it [here](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) .  
+### If you find any bugs in this mod or you have feature request, pelease report it [here](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) .  
 ### :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg) .  
 ### Email: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com  
+### Localizations translation on Crowdin: https://crowdin.com/project/spm
 ---------------------------------------
 ### Things Added
-
 
 #### Sweet Potato
 
     In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also forage all over the world for treasure chests containing Sweet Potatoes. After you obtain a Sweet Potato, you will reach the advancement:”Sweet and Soft”. You can also plant any kind of Raw Sweet Potatoes on farmland to let it grow.
 	
-	Advancement:”Balanced Diet” requires the player to consume all categories of Raw and Baked Sweet Potatoes.
+	Also, you can also bake Sweet Potatoes. By putting any categories of Raw Sweet Potatoes into a furnace, smokers or on a campfire, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger. You will obtain a Peel after eating any variants of Sweet Potato.
 	
-	Also, you can also bake Sweet Potatoes. By putting any kind of Raw Sweet Potatoes into a furnace, smokers or on a campfire, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger. You will obtain a Peel after eating any variants of Sweet Potato.
+	In a Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
 
 	You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. Furthermore, Sweet Potato is compostable.
   
@@ -30,6 +30,8 @@
     Sweet Potato Powder is an important item in the Mod. You can grind any kind of Raw or Enchanted Sweet Potatoes into a Grinder to get Sweet Potato Powder.
 	
 	Sweet Potato Powders can upgrade saplings and crops into their Enchanted variants in Agroforestry Tables, to increase the growing speed of trees and crops.
+	
+	Sweet Potato Powder is the sublimator of Magic Cube. Adding Sweet Potato Powders can improve the quality of transfering obviously.
   
 
 #### Peel
@@ -37,13 +39,17 @@
     When you consume any variants of Sweet Potato, you will get a Peel.
 	
 	You can feed them to your pigs. Besides, Peels are also compostable.
+	
+	Peel is the important fuel in Magic Cube. You cannot transfer without it.
   
   
-#### Magic Cube
+#### Magic Cube 
 
 	Magic Cube has a black texture. When it's activated, it will lit up with purple halo. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below.
 	
 	After obtaining a Magic Cube, you will reach the advancement:”Magic in Soul”.
+	
+	In a activated Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
 	
 	Magic Cube is a kind of cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined just by an Iron Pickaxe.
 	
@@ -64,13 +70,14 @@
 
 	Enchanted Sapling has bright enchantment luster. It has six variants: Enchanted Oak Saplings, Enchanted Spruce Saplings, Enchanted Birch Saplings, Enchanted Jungle Saplings, Enchanted Acacia Saplings and Enchanted Dark Oak Saplings.
 	
-	You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees. They can only be looted by using any kinds of Silk Touch tools.
+	You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees, and grow into the special Enchanted Trees. They can only be looted by using any kinds of Silk Touch tools.
 	
 	Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that can naturally spawn beehives randomly.
     
 	
 ##### Enchanted Crops
-	Enchanted Crops are the upgraded variants of Vanilla crops. You can put a Vanilla crop and a Sweet Potato Powder to obtain an Enchanted Crop.They can grow much faster. You can plant any kind of Enchanted Crops on farmland to let it grow.
+
+	Enchanted Crops are the upgraded variants of Vanilla crops. You can put a Vanilla crop and a Sweet Potato Powder to obtain an Enchanted Crop. They can grow much faster. You can plant any kind of Enchanted Crops on farmland to let it grow.
 	
 	Like the Vanilla crops, Enchanted Crops can be composted.
 	
@@ -81,15 +88,37 @@
   
 ### Change Logs
 
+#### 1.2.0
+
+	Added the function of Magic Cube.
+	Added sounds: Magic Cube activates, Magic Cube unactivates, Grinder grinds, and Crop upgraded.
+	Added context of [SPM-0013](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/13). Now most of the recipes in the mod can be granted by obtaining specific ingredeints.
+	Fixed [SPM-0026](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/26): Can't load mod meta in MultiMC launcher.
+	Now releases depend Minecraft 1.16.5-1.16.2 make linkage with [Shurlin Mod](https://www.curseforge.com/minecraft/mc-mods/shurlin).
+	The main part of Java classes are transfered from io.featurehouse to org.featurehouse.
+	Now releases support 1.17-1.16.2 depend Fabric API \>0.30.0, while release support 1.17 snapshots depend Minecrafty 21w05aw or above.
+	Advancement "Balanced Diet" requires the player to consume all variants of Sweet Potatoes, contains Enchanted Sweet Potatoes.
+	Improve compatibility with other mods.
+	Improve stability on dedicated servers.
+	Transfer localizations to Crowdin: https://crowdin.com/project/spm
+
+#### 1.1.0
+
+	Moved main Java classes from io.github.teddyxlandlee.sweet_potato to io.featurehouse.spm.
+	Added Enchanted Trees.
+	Bug fixed: [SPM-B002](https://github.com/Featurehouse/sweet_potato).
+	Added several statistics.
+	Now releases compatible with 1.16.1-1.16 make linkage with [Shurlin Mod](https://www.curseforge.com/minecraft/mc-mods/shurlin).
+
 #### 1.0.3:
 
 	Now reaching advancement Balanced Diet will no longer require the player to consume Enchanted Sweet Potatoes.
 	
 	Bug fixed:
-> [SPM-B014](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/14),
-> [SPM-B016](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/16),
-> [SPM-B017](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/17) and
-> [SPM-B019](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/19).
+> [SPM-0014](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/14),
+> [SPM-0016](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/16),
+> [SPM-0017](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/17) and
+> [SPM-0019](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/19).
 
 #### 1.0.2:
 
@@ -102,11 +131,11 @@
 #### 1.0.1:
 
     Bug fixed:
-> [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
-> [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
-> [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
-> [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9), and
-> [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
+> [SPM-0001](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/1), 
+> [SPM-0003](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/3), 
+> [SPM-0005](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/5), 
+> [SPM-0009](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/9), and
+> [SPM-0010](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/10).
 
 #### beta 1.0.0:
 
@@ -184,7 +213,7 @@
 #### Collaborators
 
 >   Dennis Lin  
->	Garay  
+>	Garay Shurlin  
 >	2333tech  
 >	squid233  
 >	YWsuoyi  
@@ -199,7 +228,7 @@
 
 ### NOTICE
 
-+ This mod now only supports Minecraft 1.17(Snapshots)-1.16. For older versions. If any of you know Forge, Rift or LiteLoader and want to translate this mod, please tell us.
++ This mod now only supports Minecraft 1.17(Snapshots)-1.16. For older versions, if any of you know Forge, Rift or LiteLoader and want to transform this mod to the respective loader, please tell us.
 + DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
 + In order to run this Mod, you need Fabric Loader and Fabric API. Fabric Loader’s version can not be under 0.9.0. It is recommend to use the latest version of Fabric API.
 + Although this Mod is still in the early stage of development, in the near future we will develop all the features we planned.
