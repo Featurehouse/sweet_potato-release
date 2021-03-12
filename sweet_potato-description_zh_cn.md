@@ -10,6 +10,7 @@
 ### 如果您发现了模组中的Bug或对本模组有建议，烦请汇报至[Issues](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) 。  
 ### 请持续关注[一颗水晶Rayawa](https://space.bilibili.com/524181098)和[teddyxlandlee](https://space.bilibili.com/578744436) 在Bilibili发布的模组视频或 [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg)在YouTube上发布的视频！  
 ### 联系我们: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com
+### 模组Discord:https://discord.gg/4nTrAMKfWr
 ### Crowding本地化翻译：https://crowdin.com/project/spm
 -------------------------------------------------
 ### 新的内容
