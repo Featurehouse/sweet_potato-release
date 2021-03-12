@@ -16,11 +16,11 @@
 
 #### Sweet Potato
 
-    In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also forage all over the world for treasure chests containing Sweet Potatoes. After you obtain a Sweet Potato, you will reach the advancement:”Sweet and Soft”. You can also plant any kind of Raw Sweet Potatoes on farmland to let it grow.
+    In this mod, a kind of food is added, called Sweet Potato. It has three categories: Purple Sweet Potato, Red Sweet Potato and White Sweet Potato, with three variants: Raw Sweet Potato,Baked Sweet Potato and Enchanted Sweet Potato. You can get any variant of Sweet Potato by killing Zombies, Husks and Zombie Villagers. You can also forage all over the world for treasure chests containing Sweet Potatoes. After you obtain a Sweet Potato, you will reach the advancement:"Sweet and Soft". You can also plant any kind of Raw Sweet Potatoes on farmland to let it grow.
 	
 	Also, you can also bake Sweet Potatoes. By putting any categories of Raw Sweet Potatoes into a furnace, smokers or on a campfire, you will get a Baked Sweet Potato. A Baked Sweet Potato can restore a large amount of hunger. You will obtain a Peel after eating any variants of Sweet Potato.
 	
-	In a Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
+	With a Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to a Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
 
 	You can put a Sweet Potato into a Grinder to get a Sweet Potato Powder. Furthermore, Sweet Potato is compostable.
   
@@ -45,11 +45,11 @@
   
 #### Magic Cube 
 
-	Magic Cube has a black texture. When it's activated, it will lit up with purple halo. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below.
+	Magic Cube has a black texture. You can activate the Magic Cube by lighting one or more Soul Fire in the 3x3 area below. When it's activated, it will lit up with a purple halo. 
 	
 	After obtaining a Magic Cube, you will reach the advancement:”Magic in Soul”.
 	
-	In a activated Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
+	In an activated Magic Cube, you can transfer one category of Raw Sweet Potato to another, or enchant it to Enchanted Sweet Potato. You will obtain one or more status effects after consuming an Enchanted Sweet Potato.
 	
 	Magic Cube is a kind of cheap anti-explosion block. It has the same blast resistance as an Obsidian, but can be mined just by an Iron Pickaxe.
 	
@@ -58,7 +58,7 @@
   
 #### Grinder
 
-	Grinder’s function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables.
+	Grinder's function is to grind Sweet Potatoes into Sweet Potato Powder. By adding Raw or Enchanted Sweet Potatoes into a Grinder, it will add their respective ingredient data number to the total one. When the value accumulates to 15, the Sweet Potato will be ground into Sweet Potato Powder. Sweet Potato Powder can be used to upgrade Saplings in Agroforestry Tables.
   
   
 #### Agroforestry Table
@@ -72,7 +72,7 @@
 	
 	You can use a Vanilla Sapling and Sweet Potato Powder to enchant a sapling in an Agroforestry Table. Enchanted Saplings can increase the growing speed of trees, and grow into the special Enchanted Trees. They can only be looted by using any kinds of Silk Touch tools.
 	
-	Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Saplings and Enchanted Birch Saplings grow into trees that can naturally spawn beehives randomly.
+	Like the Vanilla Saplings, Enchanted Saplings can be placed in furnaces as fuel, and can be composted. Enchanted Oak Trees and Enchanted Birch Trees can naturally spawn beehives randomly.
     
 	
 ##### Enchanted Crops
@@ -90,7 +90,7 @@
 
 #### 1.2.0
 
-	Added the function of Magic Cube.
+	Added the function of Magic Cube. Now, activated Magic Cube can transfer Sweet Potatoes.
 	Added sounds: Magic Cube activates, Magic Cube unactivates, Grinder grinds, and Crop upgraded.
 	Added context of [SPM-0013](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/13). Now most of the recipes in the mod can be granted by obtaining specific ingredeints.
 	Fixed [SPM-0026](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/26): Can't load mod meta in MultiMC launcher.
@@ -202,28 +202,29 @@
 
 #### Author
 
->	Pigeonia Featurehouse
+> Pigeonia Featurehouse
 
 #### Contributors
 
->	Teddy Li (teddyxlandlee)  
->	Ray Chen (Rayawa)  
->	Peter Yang (Peterice)  
+> Teddy Li (teddyxlandlee)  
+> Ray Chen (Rayawa)  
+> Peter Yang (Peterice)  
 
 #### Collaborators
 
->   Dennis Lin  
->	Garay Shurlin  
->	2333tech  
->	squid233  
->	YWsuoyi  
->	Ironnoob73  
+> Dennis Lin  
+> Garay Shurlin  
+> 2333tech  
+> squid233  
+> YWsuoyi  
+> Ironnoob73  
+> ACGaming
 
 #### Supporters
 
->	Teacher Qiu Yuting  
->	immibis  
->	Zn_Ar  
+> Teacher Qiu Yuting  
+> immibis  
+> Zn_Ar  
 
 
 ### NOTICE
