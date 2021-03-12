@@ -10,6 +10,7 @@
 ### If you find any bugs in this mod or you have feature request, pelease report it [here](https://github.com/Featurehouse/sweet_potato-issueTracker/issues) .  
 ### :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg) .  
 ### Email: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com  
+### Sweet Potato Discord:https://discord.gg/4nTrAMKfWr
 ### Localizations translation on Crowdin: https://crowdin.com/project/spm
 ---------------------------------------
 ### Things Added
