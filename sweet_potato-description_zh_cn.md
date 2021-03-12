@@ -109,7 +109,7 @@
 
 	将模组主要类文件从io.github.teddyxlandlee.sweet_potato迁移至io.featurehouse.spm。
 	添加了附魔树。
-	修复了[SPM-B002](https://github.com/Featurehouse/sweet_potato-issueTracker/2)。
+	修复了[SPM-0002](https://github.com/Featurehouse/sweet_potato-issueTracker/2)。
 	添加了一些统计信息。
 	依赖Minecraft 1.16.1-1.16的模组发行版与[Shurlin模组](https://www.curseforge.com/minecraft/mc-mods/shurlin) 联动。
 
@@ -117,10 +117,10 @@
 	现在，进度“均衡饮食”不再需要玩家食用三种品类的附魔地瓜。
 	
 	修复了：
-> [SPM-B014](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/14)、
-> [SPM-B016](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/16)、
-> [SPM-B017](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/17) 和
-> [SPM-B019](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/19)。
+> [SPM-0014](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/14)、
+> [SPM-0016](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/16)、
+> [SPM-0017](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/17) 和
+> [SPM-0019](https://github.com/Featurehouse/sweet_potato-issueTracker/issues/19)。
 
 #### 1.0.2:
 
@@ -133,11 +133,11 @@
 #### 1.0.1:
 
     修复了:
-> [SPM-B001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
-> [SPM-B003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
-> [SPM-B005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
-> [SPM-B009](https://github.com/teddyxlandlee/sweet_potato/issues/9)和
-> [SPM-B010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
+> [SPM-0001](https://github.com/teddyxlandlee/sweet_potato/issues/1), 
+> [SPM-0003](https://github.com/teddyxlandlee/sweet_potato/issues/3), 
+> [SPM-0005](https://github.com/teddyxlandlee/sweet_potato/issues/5), 
+> [SPM-0009](https://github.com/teddyxlandlee/sweet_potato/issues/9)和
+> [SPM-0010](https://github.com/teddyxlandlee/sweet_potato/issues/10).
 
 #### beta-1.0.0
 
