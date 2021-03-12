@@ -1,7 +1,6 @@
 # Sweet Potato Mod
 ## Try all kinds of food and magic in sweet potato mod!  
-## [Homepage of Pigeonia Featurehouse](https://github.com/Featurehouse)
-![Title](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
+### [Homepage of Pigeonia Featurehouse](https://github.com/Featurehouse)
 --------------------------------------------
 ### Tip: this mod currently only supports 1.17(Snapshots)-1.16, because the agricultural and magical styles of the entire mod are closely related to Nether Update-style.  
 ### DO NOT RETRANSMIT THIS MOD TO OTHER WEBSITES UNLESS WE AGREED!  
@@ -12,6 +11,7 @@
 ### Email: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com  
 ### Sweet Potato Discord:https://discord.gg/4nTrAMKfWr
 ### Localizations translation on Crowdin: https://crowdin.com/project/spm
+![Title](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 ---------------------------------------
 ### Things Added
 
