@@ -48,7 +48,7 @@
 	
 #### 魔法锅
 
-	魔法锅散发着黑色的光泽，在激活时，会有一圈美丽紫色的光环。你可以通过在它下方3x3区域内点燃灵魂火来激活魔法锅。
+	魔法锅散发着黑色的光泽。你可以通过在它下方3x3区域内点燃灵魂火来激活魔法锅。激活后的魔法锅，会有一圈美丽紫色的光环。
 
 	在获得魔法锅后，你将达成进度：“灵魂魔法”。
 	
@@ -208,28 +208,29 @@
 
 #### 创作团队
 
->	Pigeonia Featurehouse
+> Pigeonia Featurehouse
 
 #### 作者
 
->	Teddy Li (teddyxlandlee)  
->	Ray Chen (Rayawa)  
->	Peter Yang (Peterice)
+> Teddy Li (teddyxlandlee)  
+> Ray Chen (Rayawa)  
+> Peter Yang (Peterice)
 
 #### 贡献者
 
->   Dennis Lin  
->	Garay Shurlin 
->	2333tech  
->	squid233  
->	YWsuoyi  
->	Ironnoob73
+> Dennis Lin  
+> Garay Shurlin 
+> 2333tech  
+> squid233  
+> YWsuoyi  
+> Ironnoob73  
+> ACGaming
 
 #### 支持者
 
->	Teacher Qiu Yuting
->	immibis  
->	Zn_Ar
+> Teacher Qiu Yuting
+> immibis  
+> Zn_Ar
 
 
 ### 注意事项
