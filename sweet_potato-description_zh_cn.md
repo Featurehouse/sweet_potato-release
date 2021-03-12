@@ -1,7 +1,6 @@
 # Sweet Potato Mod——烤地瓜
 ## 农业与魔法的完美结合
-## [Pigeonia Featurehouse主页](https://github.com/Featurehouse)
-![标题](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
+### [Pigeonia Featurehouse主页](https://github.com/Featurehouse)
 --------------------------------------------------------
 ### 温馨提示：本模组目前仅支持1.17（快照）-1.16，因为整个模组的农业与魔法风格与下界更新的黑石风格密切相关。  
 ### 请不要在未经作者允许的情况下擅自转载本模组至其它平台！
@@ -12,6 +11,7 @@
 ### 联系我们: tedexe_work.top@foxmail.com | Rayawa.work@gmail.com
 ### 模组Discord:https://discord.gg/4nTrAMKfWr
 ### Crowding本地化翻译：https://crowdin.com/project/spm
+![标题](https://i.loli.net/2020/11/01/6eZRi2UvuHOKwsg.png)
 -------------------------------------------------
 ### 新的内容
 
