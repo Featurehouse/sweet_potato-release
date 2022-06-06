@@ -1,7 +1,7 @@
 # Sweet Potato Mod
 ### Try all kinds of food and magic in Sweet Potato Mod!
 -----------------------------------------------------------------------------------------
-### Current Version | 当前版本 | 當前版本 : 1.1.0
+### Current Version | 当前版本 | 當前版本 : 1.2.1
 
 English | 简体中文 | 繁體中文
 ---------- | ---------- | ----------
