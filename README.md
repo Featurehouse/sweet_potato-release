@@ -1,3 +1,6 @@
+# This repo is outdated.
+### Go to [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) for latest details.
+--------------------------------------------------
 # Sweet Potato Mod
 ### Try all kinds of food and magic in Sweet Potato Mod!
 -----------------------------------------------------------------------------------------
